@@ -1,4 +1,4 @@
 function testepath
 {
-    echo "The current working directory: $PWD"
+    echo "The current working directory: $LILI_PATH"
 }

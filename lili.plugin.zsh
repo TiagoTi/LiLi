@@ -1,7 +1,7 @@
 VERSION=0.0.0
-
-. $PWD/functions.sh
-. $PWD/alias-teresa.zsh
+LILI_PATH=$HOME/.oh-my-zsh/plugins/lili
+. $LILI_PATH/functions.sh
+. $LILI_PATH/alias-teresa.zsh
 
 function version
 {

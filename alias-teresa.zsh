@@ -39,4 +39,4 @@ alias trsi="teresa_util application_information"
 alias trscuc="teresa_util configuration_cluster_to_use"
 alias trsl="trsa app logs -f "
 alias trscv="teresa_util config_view"
-. $PWD/.teresa-sensive.env
+. $LILI_PATH/.teresa-sensive.env
